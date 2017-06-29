@@ -3,7 +3,7 @@ const name = 'Brahim';
 export default name;
 
 // Set up the watch function
- const setDate = () => {
+export const setDate = () => {
   const secondNeedle = document.querySelector('.second-needle');
   const minNeedle = document.querySelector('.min-needle');
   const hourNeedle = document.querySelector('.hour-needle');
