@@ -1,7 +1,7 @@
 {
   "name": "arabic-greeting",
   "version": "1.0.0",
-  "description": "JS dev envi",
+  "description": "A simple app athat greet's you in Arabic language",
   "main": "index.js",
   "author": "Brahim Sourny",
   "license": "MIT",
@@ -64,11 +64,12 @@
     "sinon": "^2.3.1",
     "style-loader": "^0.17.0",
     "surge": "^0.19.0",
-    "webpack": "^2.5.1",
+    "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.10.2",
     "webpack-dev-server": "^2.4.5",
     "webpack-hot-middleware": "^2.18.0",
     "webpack-md5-hash": "^0.0.5",
     "whatwg-fetch": "^2.0.3"
-  }
+  },
+  "repository": "https://github.com/BrahimS/Arabic-Greeting.git"
 }
