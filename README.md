@@ -18,7 +18,7 @@ A simple app that greets you in Arabic language
 I used yarn to install my packages and run scripts but npm will also work.
 
 1 - $ git clone "https://github.com/BrahimS/Arabic-Greeting.git"
-2 - cd Arabic-Greeting.
+2 - cd Arabic-Greeting
 3 - $ yarn install or $ sudo yarn install
 4 - $ yarn start
 
