@@ -1,6 +1,6 @@
 # Arabic greeting
 A simple app that greets you in Arabic language
-* Reactjs
+
 * Webpack
 * Babel
 * eslint
