@@ -1,7 +1,7 @@
-// Import style
-import '../sass/index.sass';
 // Import Js module
 import name from '../js/config';
+// Import style
+import '../sass/index.sass';
 
 // Import the watch function
 import { setDate } from '../js/config';
